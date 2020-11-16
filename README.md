@@ -2,7 +2,8 @@
 The Humans Resources (HR) Department at Pewlett Hackard is preparing for the ”Silver Tsunami”, also known as the large employee retirement by the Boomer generation. The purpose of our project is to determine the number of retiring employees by title and identify which employees are eligible to participate in the mentorship program. Our retiring employees by title information will show the titles of all employees born between January 1, 1952 and December 31, 1955.
 
 To organize the data tables in a manner to easily understand throughout the analysis, an Entity Relationship Diagram was created to visualize the table relationships. Each data table provided was incorporated into the below ERD to assist in the SQL joins in the subsequent analysis. 
-PHOTO OF DIAGRAM HERE
+
+<img src="https://github.com/jratliff1215/Pewlett_Hackard_Analysis/blob/main/Pwelett_Hackard_Analysis/Data/EmployeeDB.png" width="500" height="600">
 
 # Results
 *	A significant proportion of the Pewlett Hackard workforce is eligible for retirement in the coming years. Nearly 94,000 employees at various levels of the company, heavily weighted in the Senior Engineer sector, may be leaving the company. This amount of people leaving the workforce may leave Pewlett Hackard with insufficient staffing to complete tasks. 
