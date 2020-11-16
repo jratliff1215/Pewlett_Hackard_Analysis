@@ -8,7 +8,9 @@ To organize the data tables in a manner to easily understand throughout the anal
 # Results
 *	A significant proportion of the Pewlett Hackard workforce is eligible for retirement in the coming years. Nearly 94,000 employees at various levels of the company, heavily weighted in the Senior Engineer sector, may be leaving the company. This amount of people leaving the workforce may leave Pewlett Hackard with insufficient staffing to complete tasks. 
 
-*	Nearly 64% of the retiring workforce is of a senior level (senior engineer or senior staff). This higher level of knowledge and skill departing the workforce needs to be reviewed to potential promotions from younger staff. Does Pewlett Hackard have lower-level employees that are ready to be promoted? Will external talent need to be recruited?
+*	Nearly 64% of the retiring workforce is of a senior level (senior engineer or senior staff). This higher level of knowledge and skill departing the workforce needs to be reviewed to potential promotions from younger staff. Does Pewlett Hackard have lower-level employees that are ready to be promoted? Will external talent need to be recruited? Total employees by title is shown in the table below.
+
+<img src="https://github.com/jratliff1215/Pewlett_Hackard_Analysis/blob/main/Pwelett_Hackard_Analysis/Data/Module%20and%20Challenge/Retire_by_dept.PNG" width="350" height="250">
 
 *	There are limited managers retiring from the workforce in the analyzed section. This may provide some relief if departments can be combined or a remaining employee can be promoted into place. 
 
