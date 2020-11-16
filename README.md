@@ -19,10 +19,10 @@ To organize the data tables in a manner to easily understand throughout the anal
 # Summary
 Although 94,000 personnel are retiring, not all roles may need to be filled. Analysis by management is needed to understand the roles and responsibilities of each personal that is retiring. If technology has changed or the strategy of the company has been modified in recent years, positions may be able to be eliminated and not refilled. 
 
-The Company should also review the second wave of the ‘Silver Tsunami’ for retirement. In a review of the employees with birth dates between 1956 and 1960, this group includes over 115,000 people who may be retiring soon after this first wave. This reduction in the work force combined with the original wave will have a significant impact on the productivity of Pewlett Hackard. 
+The Company should also review the second wave of the ‘Silver Tsunami’ for retirement. In a review of the employees with birth dates between 1956 and 1960, this group includes over 115,000 people who may be retiring soon after this first wave. This reduction in the work force combined with the original wave will have a significant impact on the productivity of Pewlett Hackard. (Data: Pewlett_Hackard_Analysis/Data/Module and Challenge/unique_titles_phase_two.csv)
 
 <img src="https://github.com/jratliff1215/Pewlett_Hackard_Analysis/blob/main/Pwelett_Hackard_Analysis/Data/Module%20and%20Challenge/Retire_by_dept_phase_two.PNG" width="550" height="350">
 
-As previously mentioned, the mentorship eligibility is limited to a single birth year. By expanding the birth years from 1962 to 1965, this includes nearly 57,000 people, significantly more than the original analysis. This expansion may provide sufficient personnel to mentor the next generation of senior personnel. 
+As previously mentioned, the mentorship eligibility is limited to a single birth year. By expanding the birth years from 1962 to 1965, this includes nearly 57,000 people, significantly more than the original analysis. This expansion may provide sufficient personnel to mentor the next generation of senior personnel.(Data: Pewlett_Hackard_Analysis/Data/Module and Challenge/modified_membership_eligibility.csv) 
 
 <img src="https://github.com/jratliff1215/Pewlett_Hackard_Analysis/blob/main/Pwelett_Hackard_Analysis/Data/Module%20and%20Challenge/Mentorship_modified.PNG" width="700" height="450">
